@@ -42,6 +42,10 @@ Param_2: slug (/wp-json/rhg/v1/blogg?slug=blogg-01)<br/>
 Param_3: page (/wp-json/rhg/v1/blogg?page=1&per_page=10)<br/>
 Param_4: per_page (/wp-json/rhg/v1/blogg?page=1&per_page=10&year=2019)
 
+#### Public Repositories:
+- https://github.com/freddan88/Yrgo-examensarbete-backend
+- https://github.com/freddan88/Yrgo-examensarbete-frontend
+
 #### Contributers:
 | Fredrik Leemann
 |----------------
