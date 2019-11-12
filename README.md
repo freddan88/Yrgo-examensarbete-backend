@@ -49,8 +49,9 @@ Param_4: per_page (/wp-json/rhg/v1/blogg?page=1&per_page=10&year=2019)
 | WebPage: http://www.leemann.se/fredrik
 
 #### Resources:
-- https://wpcentral.io/internationalization/
+- https://placeholder.com
+- https://wpcentral.io/internationalization
 - https://github.com/CMB2/CMB2/wiki/REST-API
-- https://developer.wordpress.org/rest-api/reference/
+- https://developer.wordpress.org/rest-api/reference
 - https://github.com/CMB2/CMB2/wiki/Field-Types#file_list
 - https://wordpress.stackexchange.com/questions/108652/remove-custom-post-type-permalink
