@@ -2,7 +2,7 @@
 #### Wordpress Rest API and Redirect 301 Theme
 
 > Master thesis at Yrgo - [Web Developer Program](https://yrgo.se/utbildningar/media-och-kommunikation/webbutvecklare/) - Gothenburg Swede (2019-11-12)<br/>
-> I worked on the website at: https://www.rormossenshumle.se/hem
+> I worked on the website at: https://www.rormossenshumle.se
 
 - For the website and CMS I used PHP/REACT/NPM/Javascript/Wordpress/Custom Rest API Endpoints
 
