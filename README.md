@@ -46,7 +46,7 @@ Param_4: per_page (/wp-json/rhg/v1/blogg?page=1&per_page=10&year=2019)
 - https://github.com/freddan88/Yrgo-examensarbete-backend
 - https://github.com/freddan88/Yrgo-examensarbete-frontend
 
-#### Contributers:
+#### Contributor:
 | Fredrik Leemann
 |----------------
 | GitHub: [https://github.com/freddan88](https://github.com/freddan88 "freddan88@GitHub")
